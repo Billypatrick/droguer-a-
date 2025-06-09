@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/droguer-a-/static/css/main.bdafb818.css",
+    "main.js": "/droguer-a-/static/js/main.8f70c48f.js",
+    "index.html": "/droguer-a-/index.html",
+    "main.bdafb818.css.map": "/droguer-a-/static/css/main.bdafb818.css.map",
+    "main.8f70c48f.js.map": "/droguer-a-/static/js/main.8f70c48f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdafb818.css",
+    "static/js/main.8f70c48f.js"
+  ]
+}
